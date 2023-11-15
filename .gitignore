@@ -1,0 +1,10 @@
+# Images used for training
+**/*.jpg
+**/*.JPG
+**/*.jpeg
+**/*.tar.gz
+
+# Juoyter checkpoints
+.ipynb_checkpoints
+
+
